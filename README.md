@@ -35,10 +35,12 @@ Below are some highlighted projects related to Data Science, Machine Learning, a
 
 ## 📚 Education:
 
-- **Doctor of Medicine and Surgery (M.D.)**  
+- **Doctor of Medicine and Surgery (M.D.)**
+
   University of Naples "Federico II" | Grade: 110/110 Summa Cum Laude  
 
-- **Data Science and AI Bootcamp, Le Wagon, Barcelona** 
+- **Data Science and AI Bootcamp, Le Wagon, Barcelona**
+  
   Python, Pandas, Numpy, Decision science, Machine and Deep learning and MLops
 
 ---
