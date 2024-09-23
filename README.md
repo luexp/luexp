@@ -1,11 +1,11 @@
 ## 👨‍⚕️ About Me:
 
 Hi there! 👋  
-I am **Luigi Espasiano**, a physician-entrepreneur with a passion for combining medical expertise, data science, and business insights to solve real-world problems in healthcare. I have 7 years of clinical practice and 3 years of experience in startup environments and my mission is to improve doctor's wellbeing and offer holistic/preventive care to patients. My passions involve technology, neuroscience and functional medicine.
+I am **Luigi Espasiano**, a physician-entrepreneur with a passion for combining medical expertise, data science, and business insights to solve real-world problems in healthcare. I have 7 years of clinical practice and 3 years of experience in startup environments and my mission is to improve doctor's wellbeing and offer holistic/preventive care to patients. My passions involve technology, neuroscience and functional medicine. 🚀
 
-In addition to my clinical background, I have recently embarked on a journey into Data Science and Artificial Intelligence, completing advanced courses and a bootcamp to further enhance my technical skill set. I love exploring how technology can improve healthcare outcomes and patient experiences. 🚀
+In addition to my clinical background, I have recently embarked on a journey into Data Science and Artificial Intelligence, completing advanced courses and a bootcamp to further enhance my technical skill set.
 
-You can find me working on projects related to AI, healthcare, and business innovation.
+You can find me working on projects related to AI, healthcare, and business innovation. Often learning something new 🚀.
 
 🌍 Based in: Rome, Italy  
 📫 Reach me at: [luigi.espasiano@gmail.com](mailto:luigi.espasiano@gmail.com)  
