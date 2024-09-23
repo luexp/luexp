@@ -18,7 +18,7 @@ You can find me working on projects related to AI, healthcare, and business inno
 Below are some highlighted projects related to Data Science, Machine Learning, and AI that I have been working on or plan to dive into.
 
 ### Data Science & AI Projects:
-- **[Automatic Invoice Processing]**: A project focused on extracting key information from Invoices, my graduation project at the Bootcamp project.
+- **[Automatic Invoice Processing]**: A project focused on extracting key information from Invoices, my graduation project at the Bootcamp.
 - **[NY Taxifare price prediciton]**: First end-to-end ML project at the bootcamp, built a prediction engine for taxifare prices in NY.
 
 ### Machine Learning and AI Learning Path:
