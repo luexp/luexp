@@ -48,27 +48,15 @@ Below are some highlighted projects related to Data Science, Machine Learning, a
 
 ---
 
-## 💼 Professional Experience:
-
-### Clinical Advisor - **Convergence Partners** (June 2022 - April 2024)  
-- Evaluated over 100 healthtech/medtech startups and identified investment opportunities for early-stage ventures.
-- Provided market and technology research, investor presentations, and due diligence support.
-
-### Co-Founder - **Katharsis Journeys** (January 2022 - September 2023)  
-- Created and led a retreat and personalized health coaching service. Profitable within 3 months, generating over €100K in sales.
-- Organized 6 retreats and led teams of 15 people while developing a cost-efficient marketing strategy.
-
----
-
 ## 🎓 Certifications & Online Courses:
 
-- [Mathematics for Machine Learning](https://www.deeplearning.ai/courses/mathematics-for-machine-learning-and-data-science-specialization/)
+- [Mathematics for Machine Learning and Data Science](https://www.deeplearning.ai/courses/mathematics-for-machine-learning-and-data-science-specialization/)
 - [Prompt Engineering for Developers](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)
-- [Securities Analyst (CMSA®)](https://corporatefinanceinstitute.com/certifications/capital-markets-securities-analyst-cmsa/)
+- [Capital Markets & Securities Analyst (CMSA®)](https://corporatefinanceinstitute.com/certifications/capital-markets-securities-analyst-cmsa/)
 - [Economics of Money & Banking](https://www.coursera.org/learn/money-banking)
 - [Private Equity & Venture Capital](https://www.coursera.org/learn/private-equity)
-- [Exercising Leadership (Harvard University)](https://pll.harvard.edu/course/exercising-leadership-foundational-principles)
-- [Chinese Thought](https://www.edx.org/learn/humanities/university-of-hong-kong-humanity-and-nature-in-chinese-thought)
+- [Exercising Leadership](https://pll.harvard.edu/course/exercising-leadership-foundational-principles)
+- [Humanity and Nature in Chinese Thought](https://www.edx.org/learn/humanities/university-of-hong-kong-humanity-and-nature-in-chinese-thought)
 
 ---
 
