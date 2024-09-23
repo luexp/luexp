@@ -5,7 +5,7 @@ I am **Luigi Espasiano**, a physician-entrepreneur with a passion for combining 
 
 In addition to my clinical background, I have recently embarked on a journey into Data Science and Artificial Intelligence, completing advanced courses and a bootcamp to further enhance my technical skill set.
 
-You can find me working on projects related to AI, healthcare, and business innovation. Often learning something new 🚀.
+You can find me working on projects related to AI, healthcare, and business innovation. Often learning something new. 🧐
 
 🌍 Based in: Rome, Italy  
 📫 Reach me at: [luigi.espasiano@gmail.com](mailto:luigi.espasiano@gmail.com)  
