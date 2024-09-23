@@ -21,17 +21,13 @@ Below are some highlighted projects related to Data Science, Machine Learning, a
 - **[Automatic Invoice Processing]**: A project focused on extracting key information from Invoices, my graduation project at the Bootcamp.
 - **[NY Taxifare price prediciton]**: First end-to-end ML project at the bootcamp, built a prediction engine for taxifare prices in NY.
 
-### Machine Learning and AI Learning Path:
-- **Prompt Engineering for Developers**: Hands-on experience with advanced prompt engineering techniques for LLMs ([Deeplearning.AI course](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/))
-- **Mathematics for Machine Learning**: Gained solid foundations in the mathematical concepts required for machine learning ([Deeplearning.AI specialization](https://www.deeplearning.ai/courses/mathematics-for-machine-learning-and-data-science-specialization/))
-
 ---
 
 ## 🛠️ Technical Skills:
 
 - **Programming Languages**: Python, SQL
-- **Data Science & Machine Learning**: Pandas, NumPy, SciKit-Learn, TensorFlow, Model fine-tuning
-- **Visualization Tools**: Matplotlib, Seaborn
+- **Data Science & Machine Learning**: Pandas, NumPy, SciKit-Learn, TensorFlow
+- **Visualization Tools**: Matplotlib, Seaborn, Plotly
 - **Cloud & DevOps**: Google Cloud Console, Docker
 - **AI & Prompt Engineering**: Prompt engineering with GPT models
 
