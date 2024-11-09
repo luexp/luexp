@@ -16,7 +16,7 @@ In addition to my clinical background, I completed several advanced courses on M
 Below are some highlighted projects related to Data Science, Machine Learning, and AI that I have been working on or plan to dive into.
 
 ### Data Science & AI Projects:
-- **[Automatic Invoice Processing]**: A project focused on helping accountants programmaticallt extract information from Invoices, fine-tuned Yolov9, used Donut Transformer and LLM.
+- **[Automatic Invoice Processing]**: A project focused on helping accountants programmaticallt extract information from Invoices, fine-tuned Yolov9, used Donut Transformer and LLM. Backend with FastAPI, frontend with Streamlit.
 - **[NY Taxifare price prediciton]**: First end-to-end ML project at the bootcamp, built a prediction engine for taxifare prices in NY.
 
 ---
