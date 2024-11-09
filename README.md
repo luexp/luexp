@@ -7,7 +7,7 @@ In addition to my clinical background, completed several advanced courses on Mac
 
 🌍 Based in: Rome, Italy  
 📫 Reach me at: [luigi.espasiano@gmail.com](mailto:luigi.espasiano@gmail.com)  
-💼 [LinkedIn](https://www.linkedin.com/in/luigiespasiano) | 🌐 [GitHub](https://github.com/luexp)
+💼 [LinkedIn](https://www.linkedin.com/in/luigiespasiano) 
 
 ---
 
