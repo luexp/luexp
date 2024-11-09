@@ -1,11 +1,9 @@
 ## 👨‍⚕️ About Me:
 
 Hi there! 👋  
-My name is **Luigi Espasiano**, a physician-entrepreneur with a passion for combining medical expertise, data science, and business insights to solve real-world problems in healthcare. I have 7 years of clinical practice and 3 years of experience in startup environments and my mission is to improve doctor's wellbeing and offer holistic/preventive care to patients. My passions involve technology, neuroscience and functional medicine. 🚀
+My name is **Luigi Espasiano**, a physician-entrepreneur combining medical expertise, data science, and business insights to solve real-world problems in healthcare. I have 8 years of clinical experience and 3 years of in healthcare startups.
 
-In addition to my clinical background, I have recently embarked on a journey into Data Science and Artificial Intelligence, completing advanced courses and a bootcamp to further enhance my technical skill set.
-
-You can find me working on projects related to AI, healthcare, and business innovation. Often learning something new. 🧐
+In addition to my clinical background, completed several advanced courses on Machine Learning and Data Science.
 
 🌍 Based in: Rome, Italy  
 📫 Reach me at: [luigi.espasiano@gmail.com](mailto:luigi.espasiano@gmail.com)  
@@ -29,7 +27,7 @@ Below are some highlighted projects related to Data Science, Machine Learning, a
 - **Data Science & Machine Learning**: Pandas, NumPy, SciKit-Learn, TensorFlow
 - **Visualization Tools**: Matplotlib, Seaborn, Plotly
 - **Cloud & DevOps**: Google Cloud Console, Docker
-- **AI & Prompt Engineering**: Prompt engineering with GPT models
+- **AI & Prompt Engineering**: Prompt engineering
 
 ---
 
@@ -41,7 +39,7 @@ Below are some highlighted projects related to Data Science, Machine Learning, a
 
 - **Data Science and AI Bootcamp, Le Wagon, Barcelona**
   
-  Python, Pandas, Numpy, Decision science, Machine and Deep learning and MLops
+  Python, Pandas, Numpy, Decision science, Machine and Deep learning and MLops with GCP
 
 ---
 
