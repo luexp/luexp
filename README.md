@@ -3,7 +3,7 @@
 Hi there! 👋  
 My name is **Luigi Espasiano**, a physician-entrepreneur combining medical expertise, data science, and business insights to solve real-world problems in healthcare. I have 8 years of clinical experience and 3 years of in healthcare startups.
 
-In addition to my clinical background, completed several advanced courses on Machine Learning and Data Science.
+In addition to my clinical background, I completed several advanced courses on Machine Learning and Data Science.
 
 🌍 Based in: Rome, Italy  
 📫 Reach me at: [luigi.espasiano@gmail.com](mailto:luigi.espasiano@gmail.com)  
