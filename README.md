@@ -1,11 +1,11 @@
 ## 👨‍⚕️ About Me:
 
 Hi there! 👋  
-My name is **Luigi Espasiano**, a physician-entrepreneur combining medical expertise, data science, and business insights to solve real-world problems in healthcare. I have 8 years of clinical experience and 3 years of in healthcare startups.
+My name is **Luigi Espasiano**, a physician-entrepreneur combining medical expertise, data science, and business insights to solve real-world problems in healthcare. I have 8 years of clinical experience and 3 years in healthcare startups.
 
-In addition to my clinical background, I completed several advanced courses on Machine Learning and Data Science.
+In addition to my clinical background, I completed several advanced Machine Learning and Data Science courses.
 
-🌍 Based in: Rome, Italy  
+🌍 Based in Rome, Italy  
 📫 Reach me at: [luigi.espasiano@gmail.com](mailto:luigi.espasiano@gmail.com)  
 💼 [LinkedIn](https://www.linkedin.com/in/luigiespasiano) 
 
@@ -16,8 +16,8 @@ In addition to my clinical background, I completed several advanced courses on M
 Below are some highlighted projects related to Data Science, Machine Learning, and AI that I have been working on or plan to dive into.
 
 ### Data Science & AI Projects:
-- **[Automatic Invoice Processing]**: A project focused on helping accountants programmaticallt extract information from Invoices, fine-tuned Yolov9, used Donut Transformer and LLM. Backend with FastAPI, frontend with Streamlit.
-- **[NY Taxifare price prediciton]**: First end-to-end ML project at the bootcamp, built a prediction engine for taxifare prices in NY.
+- **[Automatic Invoice Processing]**: A project focused on helping accountants programmatically extract information from Invoices, fine-tuned Yolov9, used Donut Transformer and LLM. Backend with FastAPI, frontend with Streamlit.
+- **[NY Taxifare price prediction]**: First end-to-end ML project at the boot camp, built a prediction engine for taxifare prices in NY.
 
 ---
 
@@ -39,7 +39,7 @@ Below are some highlighted projects related to Data Science, Machine Learning, a
 
 - **Data Science and AI Bootcamp, Le Wagon, Barcelona**
   
-  Python, Pandas, Numpy, Decision science, Machine and Deep learning and MLops with GCP
+  Python, Pandas, Numpy, Decision Science, Machine and Deep learning, and MLops.
 
 ---
 
@@ -67,8 +67,6 @@ Below are some highlighted projects related to Data Science, Machine Learning, a
 
 ## 🎯 Hobbies:
 
-- Surfing 🌊
 - Trail running 🏃‍♂️
 - Archery 🎯
-- Brazilian Jiu-Jitsu 🥋
 - Qi Gong 🧘‍♂️
