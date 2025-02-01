@@ -1,33 +1,38 @@
 ## 👨‍⚕️ About Me:
 
-Hi there! 👋  
-My name is **Luigi Espasiano**, a physician-entrepreneur combining medical expertise, data science, and business insights to solve real-world problems in healthcare. I have 8 years of clinical experience and 3 years in healthcare startups.
+Hi there! I am a medical doctor and researcher who is passionate about neuroscience, technology, and biology. My clinical focus is on longevity and mental health, and I enjoy learning about new tools and building scrappy prototypes.
 
-In addition to my clinical background, I completed several advanced Machine Learning and Data Science courses.
+I am currently part of the Product team at Function Health.
+
+I consulted several startups and also co-founded Katharsis, a mental health platform offering psychedelic-assisted therapy in a safe and medically assisted context. 
+
+I was a clinical research fellow at Imperial College Psychedelic Science Unit, a psychiatry resident at Geneva University Hospital, and an anesthesiology resident at Policlinico di Milano. 
 
 🌍 Based in Rome, Italy  
 📫 Reach me at: [luigi.espasiano@gmail.com](mailto:luigi.espasiano@gmail.com)  
 💼 [LinkedIn](https://www.linkedin.com/in/luigiespasiano) 
 
 ---
-
-## 🧑‍💻 My GitHub Projects:
-
-Below are some highlighted projects related to Data Science, Machine Learning, and AI that I have been working on or plan to dive into.
-
-### Data Science & AI Projects:
-- **[Automatic Invoice Processing]**: A project focused on helping accountants programmatically extract information from Invoices, fine-tuned Yolov9, used Donut Transformer and LLM. Backend with FastAPI, frontend with Streamlit.
-- **[NY Taxifare price prediction]**: First end-to-end ML project at the boot camp, built a prediction engine for taxifare prices in NY.
+### AI Projects:
+- **[Agents101-ongoing]**: An educational project at the moment, a repository with educational material on agents and how to build them.
+- 
+### ML Projects:
+- **[Automatic Invoice Processing]**: A project focused on helping accountants extract information from Invoices programmatically. 
+- **[NY Taxifare price prediction]**: My first end-to-end ML project where I built a simple prediction engine for taxifare prices in NY.
 
 ---
 
 ## 🛠️ Technical Skills:
 
-- **Programming Languages**: Python, SQL
-- **Data Science & Machine Learning**: Pandas, NumPy, SciKit-Learn, TensorFlow
-- **Visualization Tools**: Matplotlib, Seaborn, Plotly
-- **Cloud & DevOps**: Google Cloud Console, Docker
-- **AI & Prompt Engineering**: Prompt engineering
+- Proficiency in Python programming for data science, including data sourcing, manipulation, and analysis using libraries like Pandas.
+- Foundation in SQL for efficient data querying and manipulation.
+- Solid grasp of statistical techniques for data-driven decision-making, such as statistical inference and regression (linear and logistic).
+- Practical experience in data analysis, visualization, and applying mathematical concepts like algebra, calculus, and probability to support data interpretation.
+- Knowledge of machine learning fundamentals, including dataset preparation, model evaluation, and performance metrics analysis.
+- Familiarity with machine learning techniques such as ensemble methods, time series analysis, and unsupervised learning.
+- Hands-on experience with deep learning concepts, including convolutional neural networks (CNNs), recurrent neural networks (RNNs), and transformers.
+- Exposure to automating model lifecycles, deploying models at scale, and working with continuous integration & deployment pipelines.
+- Experience in managing real-world project workflows from setup to deployment while considering ethics and explainability in AI systems.
 
 ---
 
@@ -35,16 +40,14 @@ Below are some highlighted projects related to Data Science, Machine Learning, a
 
 - **Doctor of Medicine and Surgery (M.D.)**
 
-  University of Naples "Federico II" | Grade: 110/110 Summa Cum Laude  
-
-- **Data Science and AI Bootcamp, Le Wagon, Barcelona**
-  
-  Python, Pandas, Numpy, Decision Science, Machine and Deep learning, and MLops.
+  University of Naples "Federico II" -- Grade: 110/110 Summa Cum Laude  
 
 ---
 
 ## 🎓 Certifications & Online Courses:
 
+- [Introduction to Retrieval Augmented Generation (RAG)](https://www.coursera.org/account/accomplishments/verify/SHZQPVBXZOLI)
+- [LangChain Chat with Your Data](https://learn.deeplearning.ai/accomplishments/6ce794ad-90e1-47fe-b46a-d4cabe42e283?usp=sharing)
 - [Mathematics for Machine Learning and Data Science](https://www.deeplearning.ai/courses/mathematics-for-machine-learning-and-data-science-specialization/)
 - [Prompt Engineering for Developers](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)
 - [Capital Markets & Securities Analyst (CMSA®)](https://corporatefinanceinstitute.com/certifications/capital-markets-securities-analyst-cmsa/)
