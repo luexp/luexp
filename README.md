@@ -14,12 +14,11 @@ I was a clinical research fellow at Imperial College Psychedelic Science Unit, a
 
 ---
 ### AI Projects:
-- **[Agents101-ongoing]**: An educational project at the moment, a repository with educational material on agents and how to build them.
-- **[Accountability Agent-ongoing]**: Building healthy habits is hard, but if you have someone to hold you accountable, you are more likely to stay on track.
+- **[Agents101-ongoing]**: An educational project, a repository with educational material on agents, how to build them, and sample agents.
 
 ### ML Projects:
 - **[Automatic Invoice Processing]**: A project focused on helping accountants extract information from Invoices programmatically. 
-- **[NY Taxifare price prediction]**: My first end-to-end ML project where I built a simple prediction engine for taxifare prices in NY.
+- **[NY Taxifare price prediction]**: My first end-to-end ML project, where I built a simple prediction engine for taxifare prices in NY.
 
 ---
 
