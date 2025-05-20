@@ -1,12 +1,14 @@
 ## 👨‍⚕️ About Me:
 
-Hi there! I am a medical doctor and researcher who is passionate about neuroscience, technology, and biology. My clinical focus is on longevity and mental health, and I enjoy learning about new tools and building scrappy prototypes.
+Unusual medical doctor with a product-engineering bend. I am passionate about neuroscience, artificial intelligence and biology. 
 
-I am currently part of the Product team at Function Health.
+My clinical interests are in longevity and mental health — currently working as a Product Manager at Function Health where I am a bridge between the clinical and product/eng/design teams. 
 
-I consulted several startups and also co-founded Katharsis, a mental health platform offering psychedelic-assisted therapy in a safe and medically assisted context. 
+I consulted several early-stage startups in the digital health space and co-founded my own, a mental health platform offering psychedelic-assisted therapy in a safe and medically assisted setting. 
 
 I was a clinical research fellow at Imperial College Psychedelic Science Unit, a psychiatry resident at Geneva University Hospital, and an anesthesiology resident at Policlinico di Milano. 
+
+Outside work, I enjoy trail running, trekking, archery, and quality time with friends.
 
 🌍 Based in Rome, Italy  
 📫 Reach me at: [luigi.espasiano@gmail.com](mailto:luigi.espasiano@gmail.com)  
