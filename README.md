@@ -10,7 +10,7 @@ I was a clinical research fellow at Imperial College Psychedelic Science Unit, a
 
 Outside work, I enjoy trail running, trekking, archery, and quality time with friends.
 
-🌍 Based in Rome, Italy  
+🌍 Based in Italy  
 📫 Reach me at: [luigi.espasiano@gmail.com](mailto:luigi.espasiano@gmail.com)  
 💼 [LinkedIn](https://www.linkedin.com/in/luigiespasiano) 
 
