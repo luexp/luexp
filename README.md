@@ -15,14 +15,14 @@ Outside work, I enjoy trail running, trekking, archery, and quality time with fr
 💼 [LinkedIn](https://www.linkedin.com/in/luigiespasiano) 
 
 ---
-### AI Projects:
+### Projects:
 - **[Agents 101]**: Experimentations with different agentic workflows.
 - **[Automatic Invoice Processing]**: A project focused on helping accountants extract information from Invoices programmatically. 
 - **[NY Taxifare price prediction]**: My first end-to-end ML project, where I built a simple prediction engine for taxifare prices in NY.
 
 ---
 
-## 🛠️ Technical Skills:
+## 🛠️ Tech Skills:
 
 - Proficiency in Python programming for data science, including data sourcing, manipulation, and analysis using libraries like Pandas.
 - Foundation in SQL for efficient data querying and manipulation.
@@ -38,21 +38,7 @@ Outside work, I enjoy trail running, trekking, archery, and quality time with fr
 
 ## 📚 Education:
 
-- **Doctor of Medicine and Surgery (M.D.)** : Summa Cum Laude  
-
----
-
-## 🎓 Certifications & Online Courses:
-
-- [Introduction to Retrieval Augmented Generation (RAG)](https://www.coursera.org/account/accomplishments/verify/SHZQPVBXZOLI)
-- [LangChain Chat with Your Data](https://learn.deeplearning.ai/accomplishments/6ce794ad-90e1-47fe-b46a-d4cabe42e283?usp=sharing)
-- [Mathematics for Machine Learning and Data Science](https://www.deeplearning.ai/courses/mathematics-for-machine-learning-and-data-science-specialization/)
-- [Prompt Engineering for Developers](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)
-- [Capital Markets & Securities Analyst (CMSA®)](https://corporatefinanceinstitute.com/certifications/capital-markets-securities-analyst-cmsa/)
-- [Economics of Money & Banking](https://www.coursera.org/learn/money-banking)
-- [Private Equity & Venture Capital](https://www.coursera.org/learn/private-equity)
-- [Exercising Leadership](https://pll.harvard.edu/course/exercising-leadership-foundational-principles)
-- [Humanity and Nature in Chinese Thought](https://www.edx.org/learn/humanities/university-of-hong-kong-humanity-and-nature-in-chinese-thought)
+- **Doctor of Medicine and Surgery (M.D.)**: Summa Cum Laude  
 
 ---
 
