@@ -38,9 +38,7 @@ Outside work, I enjoy trail running, trekking, archery, and quality time with fr
 
 ## 📚 Education:
 
-- **Doctor of Medicine and Surgery (M.D.)**
-
-  University of Naples "Federico II" -- Grade: 110/110 Summa Cum Laude  
+- **Doctor of Medicine and Surgery (M.D.)** : Summa Cum Laude  
 
 ---
 
