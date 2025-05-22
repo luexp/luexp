@@ -16,9 +16,7 @@ Outside work, I enjoy trail running, trekking, archery, and quality time with fr
 
 ---
 ### AI Projects:
-- **[Agents101-ongoing]**: An educational project, a repository with educational material on agents, how to build them, and sample agents.
-
-### ML Projects:
+- **[Agents 101]**: Experimentations with different agentic workflows.
 - **[Automatic Invoice Processing]**: A project focused on helping accountants extract information from Invoices programmatically. 
 - **[NY Taxifare price prediction]**: My first end-to-end ML project, where I built a simple prediction engine for taxifare prices in NY.
 
