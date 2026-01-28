@@ -2,7 +2,7 @@
 
 Unusual medical doctor with a product-engineering bend. I am passionate about neuroscience, artificial intelligence, and biology. 
 
-My clinical interests are in longevity and mental health — currently working at Function Healt,h where I am a bridge between the clinical and product/eng/design teams. 
+My clinical interests are in longevity and mental health — currently Clinical Product Lead at Function Health, where I serve as a bridge between the clinical and product/eng/design teams. 
 
 I consulted several early-stage digital health startups. I co-founded my own mental health platform offering psychedelic-assisted therapy in a safe and medically assisted setting. 
 
@@ -19,7 +19,7 @@ Outside work, I enjoy trail running, trekking, writing, archery, and quality tim
 
 ## 📚 Education:
 
-- **Doctor of Medicine and Surgery (M.D.)**: Summa Cum Laude (GPA ~ 4.0, top 1%)  
+- **Doctor of Medicine and Surgery (M.D.)**: Summa Cum Laude 
 
 ---
 
