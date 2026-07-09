@@ -1,14 +1,14 @@
 ## 👨‍⚕️ About Me:
 
-Unusual medical doctor with a product-engineering bend. I am passionate about neuroscience, artificial intelligence, and biology. 
+Unconventional physician with a product-engineering edge. I am passionate about neuroscience, artificial intelligence, and systems medicine. 
 
-My clinical interests are in longevity and mental health — currently Clinical Product Lead at Function Health, where I serve as a bridge between the clinical and product/eng/design teams. 
+I lead a small team of physician-engineers at Function, we work closely with AI/product/engineering teams to monitor, improve and evolve the quality of our product experience.
 
-I consulted several early-stage digital health startups. I co-founded my own mental health platform offering psychedelic-assisted therapy in a safe and medically assisted setting. 
+I consulted and worked at several early-stage startups in the digital health space and co-founded my own, a mental health platform offering psychedelic-assisted therapy in a safe and medically supervised setting. 
 
-I was a clinical research fellow at Imperial College Psychedelic Science Unit, a psychiatry resident at Geneva University Hospital, and an anesthesiology resident at Policlinico di Milano. 
+Before i decided to turn towards the entrepreneurial path, I was a clinical research fellow at Imperial College Psychedelic Science Unit, a psychiatry resident at Geneva University Hospital, and an anesthesiology resident at Policlinico Universitario di Milano. 
 
-Outside work, I enjoy trail running, trekking, writing, archery, and quality time with friends.
+Outside work, I enjoy snowboarding, kitesurfing, surfing, trail running, archery, tango, percussion, and quality time with friends and family.
 
 🌍 Based in the EU  
 📫 You can reach me at: [luigi.espasiano@gmail.com](mailto:luigi.espasiano@gmail.com)  
